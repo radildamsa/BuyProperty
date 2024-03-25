@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.app {
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+}
+
+.property-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.property {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+}
+
+.property img {
+    max-width: 100%;
+    height: auto;
+}
+

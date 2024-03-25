@@ -1,0 +1,30 @@
+.advanced-search-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.advanced-search-heading {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.advanced-search-form input, 
+.advanced-search-form .search-button {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.advanced-search-form .search-button {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.advanced-search-form .search-button:hover {
+    background-color: #0056b3;
+}
